@@ -1,0 +1,9 @@
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\bin\Debug\HarmonicPatternFinder.exe.config
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\bin\Debug\HarmonicPatternFinder.exe
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\bin\Debug\HarmonicPatternFinder.pdb
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\obj\Debug\HarmonicPatternFinder.Form1.resources
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\obj\Debug\HarmonicPatternFinder.Properties.Resources.resources
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\obj\Debug\HarmonicPatternFinder.csproj.GenerateResource.cache
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\obj\Debug\HarmonicPatternFinder.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\obj\Debug\HarmonicPatternFinder.exe
+C:\Users\Utilisateur\AppData\Local\Temporary Projects\HarmonicPatternFinder\obj\Debug\HarmonicPatternFinder.pdb
