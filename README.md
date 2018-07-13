@@ -4,6 +4,6 @@ This tool will help you to find the right harmonic pattern by **Fibonnaci retrac
 Usefull in trading :-)
 Tool preview :
 
-![enter image description here](https://image.prntscr.com/image/19QEygEXR-St2xWarFxXEw.png)
+![Preview 2](https://image.prntscr.com/image/19QEygEXR-St2xWarFxXEw.png)
 
 ![Preview 1](https://image.prntscr.com/image/_a8gb9n7Rw27OzKmPJgGCg.png)
