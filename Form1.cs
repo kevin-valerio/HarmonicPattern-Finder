@@ -19,6 +19,8 @@ namespace HarmonicPatternFinder
 
         private void button1_Click(object sender, EventArgs e)
         {
+        
+        /*To you ! Yes, you that is reading this. I know this code is UGGGGGLY. But I didn't have so much time do code propely. So I made this quite quickly... hehe*/
             if(isInRange(AC, 0.382, 0.886)) {
                 if (isInRange(XB,0.618)) {
                     if (isInRange(BD, 1.272, 1.618)) {
